@@ -1,4 +1,4 @@
-# Abavilla FPI Meta Plugin Project
+# Abavilla FPI Template Plugin Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
